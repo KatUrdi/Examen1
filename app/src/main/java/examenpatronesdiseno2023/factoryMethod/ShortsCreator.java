@@ -1,3 +1,4 @@
+package examenpatronesdiseno2023.factoryMethod;
 public class ShortsCreator extends ElementoCreator {
     @Override
     public Shorts creator() {

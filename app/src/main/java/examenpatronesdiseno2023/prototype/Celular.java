@@ -1,3 +1,4 @@
+package examenpatronesdiseno2023.prototype;
 public class Celular {
 
     private String modelo;
@@ -17,12 +18,12 @@ public class Celular {
         this.modelo = modelo;
     }
 
-    public String getTamanio() {
+    public String getTamano() {
         return tamanio;
     }
 
-    public void setTamanio(String tamanio) {
-        this.tamanio = tamanio;
+    public void setTamano(String tamano) {
+        this.tamano = tamano;
     }
 
     public int getPeso() {

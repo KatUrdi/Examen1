@@ -1,3 +1,4 @@
+package examenpatronesdiseno2023.builder;
 public class ContratoNETFLIX extends ContratoBuilder {
     @Override
     public void buildCosto() {

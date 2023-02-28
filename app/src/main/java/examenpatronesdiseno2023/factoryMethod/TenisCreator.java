@@ -1,3 +1,4 @@
+package examenpatronesdiseno2023.factoryMethod;
 public class TenisCreator extends ElementoCreator {
     @Override
     public Tenis creator() {

@@ -1,3 +1,4 @@
+package examenpatronesdiseno2023.factoryMethod;
 public class Medias implements IElemento {
     
     private String tamano;

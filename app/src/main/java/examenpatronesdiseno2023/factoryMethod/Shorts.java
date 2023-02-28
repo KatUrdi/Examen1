@@ -1,3 +1,4 @@
+package examenpatronesdiseno2023.factoryMethod;
 public class Shorts {
     private String tamano;
     private String color;

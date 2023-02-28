@@ -1,3 +1,4 @@
+package examenpatronesdiseno2023.factoryMethod;
 public class PelotaFutbol implements IElemento {
 
     private String tamanio;

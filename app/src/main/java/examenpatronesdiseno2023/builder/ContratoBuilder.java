@@ -1,3 +1,4 @@
+package examenpatronesdiseno2023.builder;
 public class ContratoBuilder {
     protected Contrato contrato;
 

@@ -1,3 +1,4 @@
+package examenpatronesdiseno2023.builder;
 import java.util.ArrayList;
 import java.util.List;
 public class ContratoAMAZON extends ContratoBuilder{

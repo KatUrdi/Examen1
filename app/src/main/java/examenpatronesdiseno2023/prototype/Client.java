@@ -1,3 +1,4 @@
+package examenpatronesdiseno2023.prototype;
 public class Client {
     public static void main(String[] args) {
 

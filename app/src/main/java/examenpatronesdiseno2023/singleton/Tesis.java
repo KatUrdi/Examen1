@@ -1,3 +1,4 @@
+package examenpatronesdiseno2023.singleton;
 public class Tesis {
 
     private String mencion;

@@ -1,3 +1,4 @@
+package examenpatronesdiseno2023.factoryMethod;
 public class MediasCreator  extends ElementoCreator{
     @Override
     public Medias creator() {

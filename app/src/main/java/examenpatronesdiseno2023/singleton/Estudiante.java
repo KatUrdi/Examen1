@@ -1,3 +1,4 @@
+package examenpatronesdiseno2023.singleton;
 public class Estudiante {
 
     private String nombre;

@@ -1,3 +1,4 @@
+package examenpatronesdiseno2023.prototype;
 public class Camara {
     private int foco;
     private String lente;

@@ -1,3 +1,4 @@
+package examenpatronesdiseno2023.interpreter;
 public class Numero extends SumaYDivision{
     public Numero(int digit){
 

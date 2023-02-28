@@ -1,3 +1,4 @@
+package examenpatronesdiseno2023.singleton;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
